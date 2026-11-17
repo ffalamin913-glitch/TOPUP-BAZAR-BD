@@ -6,7 +6,7 @@ var website_name = "TOPUP BAZAR BD";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "t.me/ffalamin1";
 
 // =======================================================
 // TELEGRAM GROUP LINK
