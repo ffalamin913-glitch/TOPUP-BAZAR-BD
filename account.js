@@ -11,7 +11,7 @@ var telegram_channel_link = "t.me/ffalamin1";
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "t.me/ffalamin20";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
